@@ -1,4 +1,6 @@
-# Reporting and analysis, code written in French by PHAM Dong Pha
+# Scrapping des données sur LinkedIn et analyses des données
+
+Reporting and analysis, code written in French by PHAM Dong Pha
 
 Comme tous les autres étudiants qui sont en train de terminer leur étude, nous souhaiterons chercher d'un emploi dans le domaine de Data Science après notre étude.
 Lorsque vous êtes sur le marché du travail et que vous recherchez votre prochaine affectation, que feriez - vous? Parcourez les différents sites Web, consultez LinkedIn, Indeed, Glassdoor, actualisez votre boîte e-mail jour après jour pour vous assurer de ne manquer aucune opportunité?. Une autre façon créative consiste à créer un outil de décapage des emplois. Vous pouvez collecter toutes les informations en cliquant sur un bouton.
