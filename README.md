@@ -1,4 +1,4 @@
-# Scrapping des données sur LinkedIn et analyses des données
+# Scrapping et analyses des données sur LinkedIn
 
 Reporting and analysis, code written in French by PHAM Dong Pha
 
