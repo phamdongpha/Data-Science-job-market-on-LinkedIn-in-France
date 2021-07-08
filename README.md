@@ -2,7 +2,7 @@
 
 Reporting and analysis, code written in French by PHAM Dong Pha
 
-Comme tous les autres étudiants qui sont en train de terminer leur étude, nous souhaiterons chercher d'un emploi dans le domaine de Data Science après notre étude.
+Comme tous les autres étudiants qui sont en train de terminer leur études, nous souhaiterons chercher d'un emploi dans le domaine de Data Science après notre étude.
 Lorsque vous êtes sur le marché du travail et que vous recherchez votre prochaine affectation, que feriez - vous? Parcourez les différents sites Web, consultez LinkedIn, Indeed, Glassdoor, actualisez votre boîte e-mail jour après jour pour vous assurer de ne manquer aucune opportunité?. Une autre façon créative consiste à créer un outil de décapage des emplois. Vous pouvez collecter toutes les informations en cliquant sur un bouton.
 
 Pour se préparer à l'avenir de poursuivre une carrière dans le domaine : Nous nous demandons quelles sont les tendances du recrutement dans le domaine de Data Science?. Quelles sont les exigences pour les postes dans le domaine de Data Science?. Que nous devons faire pour optimiser notre recherche d'emploi dans ce domaine?. Et bien d'autres questions que nous poserons dans la section méthodologie ci-dessous. 
