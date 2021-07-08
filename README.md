@@ -7,9 +7,11 @@ Pour se préparer à l'avenir de poursuivre une carrière dans le domaine : Nous
 
 Donc, je me suis mis à chercher des réponses sur ce sujet.
 
+
 Plan de projet : 
 
 Pour ce projet, je souhaiterais scraper des données liés aux l'offres dans le domaine de Data Science, publiés en France sur LinkedIn en utilisant Python avec ses package Beautiful Soup et Selenium (LinkedIn est le plus grand réseau social pour les professionnels et les demandeurs d'emploi (www.linkedin.com)). Cela représente environ 900 offres. Une fois collectées par scraping via LinkedIn, les données d’offres d’emploi doivent être structurées pour l’analyse statistique. Après avoir de dataframe, j'abordais ce dataframe en effectuant une analyse exploratoire des données (Exploratory Data Analysis), une analyse de text, et WordCloud en utilisant Python.
+
 
 Table des matières
 
