@@ -18,7 +18,7 @@ Pour ce projet, je souhaiterais scraper des données liés aux l'offres dans le 
 Table des matières
 
 PARTIE I : SCRAPING DES DONNÉES
-1) Comment scrapper les données (l’informations du poste) sur LinkedLn?
+1) Comment scraper les données sur LinkedLn?
 
 PARTIE II: METHODOLOGIE
 1) Préparation des données
